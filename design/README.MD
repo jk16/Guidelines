@@ -1,7 +1,7 @@
 #Design
 ##Things people can do:
 ### Getting Started pg:
-* Sign up *[ ]
+* * [ ] Sign up
 
 * Request to be a Mentor/Buddy or accept everyone
     * Maybe filter?
@@ -52,7 +52,7 @@
 #### Recognition:
 * Streaks/badges completion of courses
     * Encourage small streaks vs longer ones
-    
+
 * Templates for better badges
 
 
