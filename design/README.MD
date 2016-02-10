@@ -5,7 +5,6 @@
 ### Getting Started pg:
 
 * [ ] Sign up
-
 * Request to be a Mentor/Buddy or accept everyone
     * Maybe filter?
 * Fill out a profile that will show of why they are good at what they want to mentor LIKE a resume
