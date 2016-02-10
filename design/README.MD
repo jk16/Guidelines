@@ -32,15 +32,15 @@
     * Sign up for a course
             
 
-    ### Commitment
-        * Failures/Penalties:
-            * Pay a fee for failing
-            * Post on your social media that you failed
-    ### Feedback
-        #### Recognition:
-            * Streaks/badges completion of courses
-                * Encourage small streaks vs longer ones
-            * Templates for better badges
+### Commitment
+    * Failures/Penalties:
+        * Pay a fee for failing
+        * Post on your social media that you failed
+### Feedback
+    #### Recognition:
+        * Streaks/badges completion of courses
+            * Encourage small streaks vs longer ones
+        * Templates for better badges
 
 
 
