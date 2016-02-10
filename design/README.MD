@@ -44,7 +44,7 @@
 
 ### Feedback
 
-#### Recognition:
+### Recognition:
 
 * Streaks/badges completion of courses
     * Encourage small streaks vs longer ones
