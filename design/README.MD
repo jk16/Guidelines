@@ -1,6 +1,9 @@
 #Design
+
 ##Things people can do:
+
 ### Getting Started pg:
+
 * [ ] Sign up
 
 * Request to be a Mentor/Buddy or accept everyone
@@ -18,6 +21,7 @@
     * Goal: By the time you finish bla bla
 
 ####Getting started for Mentee:
+
 * Fill out a profile
 
 * Adds tags you are interested in
@@ -43,13 +47,16 @@
             
 
 ### Commitment
+
 * Failures/Penalties:
     * Pay a fee for failing
 
     * Post on your social media that you failed
 
 ### Feedback
+
 #### Recognition:
+
 * Streaks/badges completion of courses
     * Encourage small streaks vs longer ones
 
