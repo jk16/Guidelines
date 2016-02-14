@@ -53,10 +53,20 @@
 
 ###Technology
 
+###Goals/Purpose
+* Group organize app
+    * Discipline
+    * Competency
+    * Leadership
+    * New form of education: Instead of having centralized system of knowledge there is
+        peer to peer learning where knowledge goes from top to bottom.
 
 ###Pages
 * Profile Page
-    * 
+    * Resume style display:
+        * Courses Taught
+        * Courses Taken
+        * Merits/Rewards
 
 
 
