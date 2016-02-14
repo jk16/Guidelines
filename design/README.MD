@@ -5,10 +5,10 @@
 ### Getting Started pg:
 
 * [ ] Sign up
-* Request to be a Mentor/Buddy or accept everyone
+* [ ] Request to be a Mentor/Buddy or accept everyone
     * Maybe filter?
-* Fill out a profile that will show of why they are good at what they want to mentor LIKE a resume
-* Post a "course" either buddy system or mentor with students
+* [ ] Fill out a profile that will show of why they are good at what they want to mentor LIKE a resume
+* [ ] Post a "course" either buddy system or mentor with students
     * Title
     * Recurring schedule (predetermined): daily with x tasks, weekly etc..
     * Course Description:
@@ -51,6 +51,12 @@
 * Templates for better badges
 
 
+###Technology
+
+
+###Pages
+* Profile Page
+    * 
 
 
 
@@ -59,6 +65,3 @@
 
 
 
-        *
-
-#Technology
